@@ -93,11 +93,11 @@ input[type="button"] {
 /*-----------------------footer----------------*/
 .footer-div {
 	width: 100%;
-	background-color: darkgoldenrod;
+	background-color: #e8e8e8;
 	height: 50px;
 	text-align: center;
 	line-height: 50px;
-	color: white;
+	color: darkgoldenrod;
 }
 @media screen and (max-width: 400px) {
 	.container {
