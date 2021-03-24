@@ -90,6 +90,15 @@ input[type="button"] {
 .desc {
 	color: white;
 }
+/*-----------------------footer----------------*/
+.footer-div {
+	width: 100%;
+	background-color: darkgoldenrod;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	color: white;
+}
 @media screen and (max-width: 400px) {
 	.container {
 		width: 90%;
@@ -147,6 +156,12 @@ input[type="button"] {
 		margin: 20px auto;
 	}
 	.desc {
+		font-size: x-small;
+	}
+		.footer-div {
+		height: 25px;
+		text-align: center;
+		line-height: 25px;
 		font-size: x-small;
 	}
 }
